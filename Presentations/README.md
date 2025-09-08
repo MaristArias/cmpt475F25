@@ -1,9 +1,11 @@
 ## Class Presentation Topics
 
-This is completely voluntary, but it will benefit the class. 
 You can pick one or more presentation topics and present them to the class for extra credit. 
+This is completely voluntary, but it will benefit the whole class.
 
 ### **Potential Student Presentation Topics**
+
+***Note**: Each bullet item is a topic, they are just grouped by area.*
 
 #### **Software Development Practices**
 
