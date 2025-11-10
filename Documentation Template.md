@@ -64,7 +64,7 @@ flowchart TD
     B --> D[External APIs]
 ```
 
-### Technology Stack
+## Technology Stack
 
 |Layer|Technology|
 |-----|----------|
@@ -75,24 +75,24 @@ flowchart TD
 
 ⸻
 
-### 💾 Data Design
+## 💾 Data Design
 - Include your ER diagram (/docs/er_diagram.png)
 - Provide a database schema or key table descriptions
 - Explain any external datasets or APIs used
 
 ⸻
 
-### 💻 Implementation Details
+## 💻 Implementation Details
 
-#### Development Methodology
+### Development Methodology
 
 Describe your process (Agile, Scrum, Kanban, etc.) and sprint structure.
 
-#### Core Features
+### Core Features
 
 List and briefly describe main features or modules implemented.
 
-#### API Documentation
+### API Documentation
 
 Provide sample endpoints if applicable.
 ```
@@ -114,46 +114,48 @@ Include full docs in `/docs/api_reference.md`.
 
 ⸻
 
-### 🧪 Testing and Quality Assurance
+## 🧪 Testing and Quality Assurance
 
-#### Testing Approach
+### Testing Approach
 
 Explain your strategy for unit, integration, and user testing.
 
-Sample Test Case
+### Sample Test Case
 
-Test ID	Description	Input	Expected Output	Result
-TC-01	Login with valid credentials	user/pass	Dashboard loads	Pass
+|Test ID|Description|Input|Expected Output|Result|
+|-------|-----------|-----|---------------|------|
+|TC-01|Login with valid credentials|user/pass|Dashboard|loads|Pass|
 
-Tools
+### Tools
 
 JUnit, Postman, Jest, Selenium, PyTest, etc.
 
 ⸻
 
-🚀 Deployment
+## 🚀 Deployment
 
-Setup and Installation
-
+### Setup and Installation
+```
 git clone https://github.com/[org]/[repo].git
 cd [repo]
 npm install      # or mvn clean install / pip install -r requirements.txt
 npm start        # or mvn spring-boot:run / python app.py
+```
 
-Environment Variables
-
+### Environment Variables
+```
 DB_HOST=
 DB_USER=
 DB_PASS=
 API_KEY=
-
-Deployment Notes
-	•	Hosting environment (AWS, Render, Heroku, etc.)
-	•	Dockerfile or CI/CD configuration (.github/workflows/)
+```
+### Deployment Notes
+- Hosting environment (AWS, Render, Heroku, etc.)
+- Dockerfile or CI/CD configuration (.github/workflows/)
 
 ⸻
 
-📊 Results and Evaluation
+## 📊 Results and Evaluation
 
 Goal	Achieved	Evidence
 Implement secure login	✅	Auth tests passed
