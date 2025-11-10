@@ -64,7 +64,7 @@ flowchart TD
     B --> D[External APIs]
 ```
 
-## Technology Stack
+### Technology Stack
 
 |Layer|Technology|
 |-----|----------|
@@ -73,14 +73,14 @@ flowchart TD
 |Database|PostgreSQL / MongoDB|
 |Tools|Docker / GitHub Actions / AWS / Firebase|
 
-⸻
+---
 
 ## 💾 Data Design
 - Include your ER diagram (/docs/er_diagram.png)
 - Provide a database schema or key table descriptions
 - Explain any external datasets or APIs used
 
-⸻
+---
 
 ## 💻 Implementation Details
 
@@ -112,7 +112,7 @@ Include full docs in `/docs/api_reference.md`.
  ┗ 📜 LICENSE
 ```
 
-⸻
+---
 
 ## 🧪 Testing and Quality Assurance
 
@@ -130,7 +130,7 @@ Explain your strategy for unit, integration, and user testing.
 
 JUnit, Postman, Jest, Selenium, PyTest, etc.
 
-⸻
+---
 
 ## 🚀 Deployment
 
@@ -153,63 +153,63 @@ API_KEY=
 - Hosting environment (AWS, Render, Heroku, etc.)
 - Dockerfile or CI/CD configuration (.github/workflows/)
 
-⸻
+---
 
 ## 📊 Results and Evaluation
 
-Goal	Achieved	Evidence
-Implement secure login	✅	Auth tests passed
-Deploy cloud instance	✅	Running on AWS EC2
-Optimize performance	⚙️ In progress	Load test results pending
+|Goal|Achieved|Evidence|
+|----|--------|--------|
+|Implement secure login|✅|Auth tests passed|
+|Deploy cloud instance|✅|Running on AWS EC2|
+|Optimize performance|In progress|Load test results pending|
 
 Include screenshots, metrics, or performance charts here.
 
-⸻
+---
 
-🧩 Lessons Learned
-	•	Technical challenges encountered
-	•	Project management takeaways
-	•	Recommendations for future teams
+## 🧩 Lessons Learned
+- Technical challenges encountered
+- Project management takeaways
+- Recommendations for future teams
 
-⸻
+---
 
-🔮 Future Work
-	•	Planned enhancements
-	•	Features not yet implemented
-	•	Potential research extensions
+## 🔮 Future Work
+- Planned enhancements
+- Features not yet implemented
+- Potential research extensions
 
-⸻
+---
 
-📎 Appendices
-	•	User Manual￼
-	•	Installation Guide￼
-	•	Test Report￼
-	•	Ethical and Privacy Considerations￼
+## 📎 Appendices
+- User Manual￼
+- Installation Guide￼
+- Test Report￼
+- Ethical and Privacy Considerations￼
 
-⸻
+---
 
-🧾 References
+## 🧾 References
 
 List all external resources, libraries, and citations.
 
-⸻
+---
 
-🏁 Acknowledgments
+## 🏁 Acknowledgments
 
 Thanks to mentors, faculty advisors, and collaborators who supported the project.
 
-⸻
+---
 
-📅 Project Timeline
+## 📅 Project Timeline
 
-Milestone	Deliverable	Date
-Proposal Approved	Problem Statement & Plan	Sept 10
-Midterm Demo	Prototype & Report	Oct 28
-Final Submission	Full System & Report	Dec 10
-Showcase	Poster & Presentation	Dec 12
+|Milestone|Deliverable|Date|
+|---------|-----------|----|
+|Proposal Approved| Problem Statement & Plan|Sept 10|
+|Midterm Demo|Prototype & Report|Oct 28|
+|Final Submission|Full System & Report|Dec 10|
+|Showcase|Poster & Presentation|Dec 12|
 
+---
 
-⸻
-
-🧩 Tip: Keep all supporting documents in the /docs folder and link them from this README.
-Use GitHub Issues and Projects to track progress and milestones.
+>🧩 Tip: Keep all supporting documents in the /docs folder and link them from this README.
